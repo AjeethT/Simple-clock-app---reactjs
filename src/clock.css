@@ -1,0 +1,12 @@
+body{
+  background: #ddd;
+  font-family: monospace; 
+}
+
+h2{
+  font-size: 2.5rem;
+}
+p{
+  font-size: 50px;
+  color: black;
+}
